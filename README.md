@@ -1,4 +1,4 @@
-![Todo Banner](https://i.ibb.co/bJxQTpB/clients-db-banner.png)
+![ClientsDB Banner](https://i.ibb.co/jfwVTXP/clients-db-banner.png)
 
 # Contents
 
@@ -13,9 +13,9 @@
 
 The Clients Database app simulates a company's clients database. You can view all clients and add, remove or edit a client. Also, based on the client's IP you can view its location on a map. If you wish, you can also search clients based on their names, id's, ip's and phone numbers.
 
-> **You can take a look at the backend repo [here](https://github.com/gilgg/todo-app-backend)**
+> **You can take a look at the frontend repo [here](https://github.com/gilgg/clients-database-frontend)**
 
-> **Go to [Website](https://gil-todo-app.netlify.app/)**
+> **Go to [Website](https://gil-clients-database.netlify.app/)**
 
 <br />
 
@@ -52,4 +52,4 @@ The Clients Database app simulates a company's clients database. You can view al
 
 # Video 🎥
 
-https://user-images.githubusercontent.com/96532357/151238177-e2895421-2350-461d-8e63-40bac2a91301.mp4
+https://user-images.githubusercontent.com/96532357/153711171-50e599aa-15df-4e2b-b6a2-609543317e25.mp4
